@@ -9,7 +9,7 @@ The dataset includes synchronized depth maps, RGB images, and 3D point clouds, c
 
 Here is an example of how the point cloud looks:
 
-![Dataset Example](dataset.png)
+![Dataset Example](images/dataset.png)
 
 
 ## Features
@@ -32,7 +32,7 @@ The dataset is organized into the following directories:
 
 The following diagram provides an example of the dataset structure:
 
-![Dataset Structure](file_structure.png)
+![Dataset Structure](images/file_structure.png)
 
 - Root: The root folder contains the overall dataset directory.
 - throwing a ball: A subfolder that contains the data for the "throwing a ball" sequence.
@@ -43,6 +43,13 @@ The following diagram provides an example of the dataset structure:
     - mesh-f00001_processed.ply: Processed point cloud data.
   - throwing a ball_point cloud: Contains point cloud data for the sequence.
     - mesh-f00001.png: Associated point cloud image.
+
+### Shooting Process
+
+The dataset was captured in a controlled environment using six synchronized Azure Kinect cameras. Below is an example of the setup during the shooting process:
+
+![Shooting Process](images/shooting.png)
+
 
 ## Dataset Evaluation
 

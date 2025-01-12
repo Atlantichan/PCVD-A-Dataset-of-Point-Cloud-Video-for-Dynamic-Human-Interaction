@@ -32,7 +32,7 @@ The dataset is organized into the following directories:
 
 The following diagram provides an example of the dataset structure:
 
-![Dataset Structure](file structure.png)
+![Dataset Structure](file_structure.png)
 
 - Root: The root folder contains the overall dataset directory.
 - throwing a ball: A subfolder that contains the data for the "throwing a ball" sequence.

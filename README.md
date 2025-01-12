@@ -4,6 +4,14 @@ This repository introduces PCVD (Point Cloud Video Dataset), which consists of s
 
 The dataset includes synchronized depth maps, RGB images, and 3D point clouds, captured from various human activities. It aims to serve as a valuable resource for 3D point cloud processing, especially in the context of dynamic human interaction.
 
+
+## Dataset Example
+
+Here is an example of how the point cloud looks:
+
+![Dataset Example](dataset.png)
+
+
 ## Features
 
 - Captured with six synchronized Azure Kinect cameras in a 4m × 4m space.

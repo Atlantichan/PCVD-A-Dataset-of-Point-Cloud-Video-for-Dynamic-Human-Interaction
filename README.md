@@ -28,6 +28,22 @@ The dataset is organized into the following directories:
 - mesh/: Contains 3D mesh files (e.g., `.obj`, `.mtl`) for each frame.
 - point_cloud/: Contains point cloud files (e.g., `.ply`, `.png`) for each frame.
 
+### Example Dataset Structure
+
+The following diagram provides an example of the dataset structure:
+
+![Dataset Structure](file structure.png)
+
+- Root: The root folder contains the overall dataset directory.
+- throwing a ball: A subfolder that contains the data for the "throwing a ball" sequence.
+  - throwing a ball_mesh: Contains mesh-related files for the sequence.
+    - mesh-f00001.mtl: Material properties for the mesh.
+    - mesh-f00001.obj: The 3D mesh file.
+    - mesh-f00001.png: Associated image for the mesh.
+    - mesh-f00001_processed.ply: Processed point cloud data.
+  - throwing a ball_point cloud: Contains point cloud data for the sequence.
+    - mesh-f00001.png: Associated point cloud image.
+
 ## Dataset Evaluation
 
 This dataset was carefully designed with the following key metrics in mind:

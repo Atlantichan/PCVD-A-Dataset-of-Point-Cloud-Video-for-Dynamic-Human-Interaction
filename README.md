@@ -40,4 +40,5 @@ This dataset was carefully designed with the following key metrics in mind:
 
 ## Contributions
 
-We welcome contributions to this project. If you have suggestions, improvements, or issues, please feel free to fork the repository, create a pull request, or open an issue.
+We welcome contributions to this project. If you have suggestions, improvements, or issues, please feel free to open an issue.
+

@@ -65,3 +65,7 @@ This dataset was carefully designed with the following key metrics in mind:
 
 We welcome contributions to this project. If you have suggestions, improvements, or issues, please feel free to open an issue.
 
+## Dataset Availability
+
+The full dataset will be made publicly available after the paper is accepted. Please check back later for access to the complete dataset. For now, we provide a subset of the data for review and reproducibility purposes.
+

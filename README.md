@@ -69,3 +69,8 @@ We welcome contributions to this project. If you have suggestions, improvements,
 
 The full dataset will be made publicly available after the paper is accepted. Please check back later for access to the complete dataset. For now, we provide a subset of the data for review and reproducibility purposes.
 
+## License
+
+This project is licensed under the GNU General Public License v2 - see the [LICENSE](LICENSE) file for details.
+
+

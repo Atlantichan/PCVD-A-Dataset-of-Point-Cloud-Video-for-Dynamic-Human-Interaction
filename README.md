@@ -71,6 +71,7 @@ The full dataset will be made publicly available after the paper is accepted. Pl
 
 ## License
 
-This project is licensed under the GNU General Public License v2 - see the [LICENSE](LICENSE) file for details.
+This dataset is licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0) - see the [LICENSE](LICENSE) file for details.
+
 
 

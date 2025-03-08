@@ -67,7 +67,7 @@ We welcome contributions to this project. If you have suggestions, improvements,
 
 ## Dataset Availability
 
-The full dataset will be made publicly available after the paper is accepted. Please check back later for access to the complete dataset. For now, we provide a subset of the data for review and reproducibility purposes.
+Due to the large volume of data, the remaining portions of the dataset will be uploaded progressively. We are committed to ensuring the completeness and accessibility of the dataset, and we appreciate your patience as we finalize the upload process.
 
 ## License
 

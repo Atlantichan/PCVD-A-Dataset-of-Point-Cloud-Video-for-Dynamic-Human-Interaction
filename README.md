@@ -69,9 +69,26 @@ We welcome contributions to this project. If you have suggestions, improvements,
 
 Due to the large volume of data, the remaining portions of the dataset will be uploaded progressively. We are committed to ensuring the completeness and accessibility of the dataset, and we appreciate your patience as we finalize the upload process.
 
+
+
 ## License
 
 This dataset is licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0) - see the [LICENSE](LICENSE) file for details.
 
+## Citation
+
+If you use our dataset, please cite it as follows:
+
+```bibtex
+@inproceedings{li2025pcvd,
+  author    = {Jie Li and Shujiao Chen and Qiyue Li and Zhi Liu},
+  title     = {PCVD: A Dataset of Point Cloud Video for Dynamic Human Interaction},
+  booktitle = {Proceedings of the ACM Multimedia Systems Conference (MMSys)},
+  year      = {2025},
+  address   = {Stellenbosch, South Africa},
+  publisher = {ACM},
+  doi       = {10.1145/3712676.3718343},
+  isbn      = {979-8-4007-1467-2/25/03}
+}
 
 
